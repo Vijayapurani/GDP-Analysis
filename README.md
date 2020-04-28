@@ -1,5 +1,5 @@
-# GDP-Analysis
-EDA Analysis- Assignment
+# GDP-Analysis of Indian States
+EDA - Assignment
 The goal of this project is to help the CMs focus on areas that will foster economic development for their respective states. Since the most common measure of economic development is the GDP, GDP of various states of India is analysed to suggest ways to improve it.
 
 The data is sourced from https://data.gov.in/, an Open Government Data (OGD) platform of India.
