@@ -1,4 +1,4 @@
-# GDP-Analysis
+# GDP Analysis of Indian States
 EDA Analysis- Assignment
 
 it is requiredto provide recommendations to the Chief Ministers (CMs) of various states which will help them prioritise areas of development for their respective states. Since different states are in different phases of development, the recommendations should be specific to the states.
