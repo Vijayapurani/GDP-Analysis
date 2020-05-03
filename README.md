@@ -1,7 +1,7 @@
 # GDP Analysis of Indian States
 EDA Analysis- Assignment
 
-it is requiredto provide recommendations to the Chief Ministers (CMs) of various states which will help them prioritise areas of development for their respective states. Since different states are in different phases of development, the recommendations should be specific to the states.
+It is requiredto provide recommendations to the Chief Ministers (CMs) of various states which will help them prioritise areas of development for their respective states. Since different states are in different phases of development, the recommendations should be specific to the states.
 
 The overall goal of this project is to help the CMs focus on areas that will foster economic development for their respective states. Since the most common measure of economic development is the GDP, GDP of various states of India is to be analysed and ways to improve it are to be suggested.
 
