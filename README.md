@@ -6,6 +6,7 @@ it is requiredto provide recommendations to the Chief Ministers (CMs) of various
 The overall goal of this project is to help the CMs focus on areas that will foster economic development for their respective states. Since the most common measure of economic development is the GDP, GDP of various states of India is to be analysed and ways to improve it are to be suggested.
 
 <b> Data </b>
+
 The data is sourced from https://data.gov.in/, an Open Government Data (OGD) platform of India.  The data for GDP analysis of the Indian states is divided into two parts:
 
 Data I-A: This dataset consists of the GSDP (Gross State Domestic Product) data for the states and union territories.
